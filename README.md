@@ -18,7 +18,7 @@
 - MacOS (macOS Big Sur)
 ---
 ## How To Install
-1. `git clone LINK`
+1. `git clone https://github.com/parhamTheDeveloper/Cryptographer.git`
 2. `python -m pip install -r requirements.txt` or `python3 -m pip install -r requirements.txt`
 3. `cd Cryptographer`
 4. `python main.py` or `python3 main.py`
